@@ -27,7 +27,7 @@ export default function Home() {
           content="Automatic Attendence Management System"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/aams.svg" />
+        <link rel="icon" href="/efarm.svg" />
       </Head>
       <Loading />
     </>

@@ -41,7 +41,7 @@ const Dashboard = () => {
             <code className={styles.code}>Your Option</code>
           </Header>
           <Link href={`/`} className={styles.center}>
-            <Image src={require("/assets/efarm.svg")} alt="aamsLogo" priority />
+            <Image src={require("/assets/efarm.svg")} alt="eFarmazyLogo" priority />
           </Link>
 
           <div className={styles.grid}>
