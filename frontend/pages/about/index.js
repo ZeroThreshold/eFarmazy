@@ -10,13 +10,13 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>AAMS</title>
+        <title>eFarmazy</title>
         <meta
           name="description"
           content="Automatic Attendence Management System"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/aams.svg" />
+        <link rel="icon" href="/efarm.svg" />
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
@@ -25,7 +25,7 @@ export default function About() {
           </p>
           <div>
             <Link href="/about">
-              By <code className={styles.code}>Team AAMS</code>
+              By <code className={styles.code}>Team eFarmazy</code>
             </Link>
           </div>
         </div>
